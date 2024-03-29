@@ -60,6 +60,7 @@ Would like to suggest a worthy resource? See [contributing instructions](CONTRIB
 #### ILS & other library systems wrappers
 + [almapipy](https://github.com/UCDavisLibrary/almapipy) - Alma API wrapper
 + [caiasoft-sdk-python](https://github.com/kstatelibraries/caiasoft-sdk-python) - SDK for Connecting to the CaiaSoft API
++ [sierra-ils-utils](https://github.com/chimpy-me/sierra-ils-utils) - Sierra API wrapper
 
 #### Transliteration / romanization
 + [Aksharamukha](https://github.com/virtualvinodh/aksharamukha-python) - transliteration of 120 Indic languages
