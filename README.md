@@ -121,3 +121,4 @@ Would like to suggest a worthy resource? See [contributing instructions](CONTRIB
 + [Python Data Visualization: Where to Start? : Interview with Chris Moffitt / Talk Python To Me: episode # 384](https://talkpython.fm/episodes/transcript/384/python-data-visualization-where-to-start) (a great overview of available tools)
 + [Data Visualization with Python and JavaScript, 2nd Edition
 by Kyran Dale](https://www.oreilly.com/library/view/data-visualization-with/9781098111861/)
++ [A FOSS Solution To Working With Data and Creating Data Visualizations](https://rayvoelker.github.io/misc/2020-neiug/) by Ray Voelker : 2020 NEIUG Conference presentation on using Python and the Vega-Altair library for creating data visualizations from library data (Sierra ILS)
